@@ -15,6 +15,6 @@ h1.para3{
 *{
   border:1px solid black;
 }
-h1,p{
+.para3,#para2{
   border:2px dashed grey;
 }
