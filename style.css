@@ -12,3 +12,6 @@ p {
 h1.para3{
   color:greenyellow;
 }
+*{
+  border:1px solid black;
+}
