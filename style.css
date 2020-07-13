@@ -5,3 +5,10 @@ p {
 #para2{
   color:blue
 }
+.para3{
+  text-align:left;
+  color:green;
+}
+h1.para3{
+  color:greenyellow;
+}
